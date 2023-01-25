@@ -6,7 +6,7 @@
 
 **Stacks**<br />
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,gitlab,nodejs,nestjs,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,gitlab,nodejs)](https://skillicons.dev)
 
 ![status](https://dev.discordprofiles.me/badge/status/202716385435058176?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/202716385435058176)
